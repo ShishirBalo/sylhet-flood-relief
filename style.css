@@ -67,8 +67,23 @@ p {
     background-color: azure;
 }
 
+.donation {
+    width: 50%;
+    padding: 8%;
+    border: 5%;
+}
 
+.donation img {
+    width: 100%;
+}
 
+.button {
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
 
 
 
