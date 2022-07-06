@@ -66,3 +66,18 @@ p {
 #education {
     background-color: azure;
 }
+
+
+
+
+
+
+
+footer {
+    background-color: black;
+    padding: 2%;
+}
+
+.footer-color {
+    color: orangered;
+}
