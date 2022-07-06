@@ -40,9 +40,13 @@ p {
     display: flex;
 }
 
+.middle-form {
+    padding: 2%;
+}
+
 .amount {
     color: slategrey;
-    padding: 2%;
+    padding: 3%;
     margin: 2%;
 }
 
