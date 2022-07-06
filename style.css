@@ -33,7 +33,7 @@ h2 {
     background-size: cover;
 }
 
-.donate-amount {
+.display-flex {
     display: flex;
 }
 
