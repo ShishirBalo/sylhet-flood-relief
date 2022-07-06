@@ -12,10 +12,13 @@ h2 {
     font-size: 40px;
 }
 
+p {
+    color: slategrey;
+}
+
 .top-banner {
     background-image: url(images/flooted-relief-1.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
     color: white;
     padding: 8%;
 }
@@ -29,7 +32,7 @@ h2 {
 
 }
 
-.donate-section {
+.section {
     background-size: cover;
 }
 
@@ -39,9 +42,27 @@ h2 {
 
 .amount {
     color: slategrey;
-    padding: 50px;
+    padding: 2%;
+    margin: 2%;
 }
 
 #select {
     border: 5px solid orangered;
+}
+
+.for-people {
+    padding: 3%;
+    margin: 4%;
+}
+
+#food {
+    background-color: aliceblue;
+}
+
+#shelter {
+    background-color: aliceblue;
+}
+
+#education {
+    background-color: azure;
 }
