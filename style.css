@@ -1,3 +1,47 @@
 body {
     font-family: 'Playfair Display', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.top-banner {
+    background-image: url(images/flooted-relief-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 8%;
+}
+
+.donate-button {
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 10px;
+
+}
+
+.donate-section {
+    background-size: cover;
+}
+
+.donate-amount {
+    display: flex;
+}
+
+.amount {
+    color: slategrey;
+    padding: 50px;
+}
+
+#select {
+    border: 5px solid orangered;
 }
