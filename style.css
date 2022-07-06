@@ -77,13 +77,6 @@ p {
     width: 100%;
 }
 
-.button {
-    color: white;
-    text-decoration: none;
-    background-color: orangered;
-    padding: 10px 40px;
-    border-radius: 10px;
-}
 
 
 
@@ -96,3 +89,11 @@ footer {
 .footer-color {
     color: orangered;
 }
+
+.submit {
+    background-color: rgb(245, 219, 209);
+    padding: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    border-radius: 20px;
